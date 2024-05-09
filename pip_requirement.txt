@@ -1,0 +1,15 @@
+# python 3.9.14
+matplotlib
+numpy
+pandas
+yfinance
+pypfopt
+statsmodels
+scipy
+scikit-learn
+fredapi
+quandl
+python-dotenv
+DateTime
+requests
+openpyxl
